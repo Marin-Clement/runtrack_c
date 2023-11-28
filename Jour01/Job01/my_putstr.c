@@ -9,4 +9,4 @@ void my_putstr(char *str)
     my_putchar(str[i]);
     i++;
   }
-} 
+}
